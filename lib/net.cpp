@@ -1,0 +1,6 @@
+class Net {
+	private:
+		
+	public:
+
+};
